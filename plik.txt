@@ -1,0 +1,2 @@
+wersja jeden
+wersja 2 dla git stash
