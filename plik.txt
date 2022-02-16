@@ -1,2 +1,3 @@
 wersja jeden
 wersja 2 dla git stash
+wersja 3 dla git rebase
